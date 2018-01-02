@@ -1,5 +1,5 @@
 void setup() {
-size(551,800);
+size(550,800);
 }
 void draw() {
 if (mousePressed) {
